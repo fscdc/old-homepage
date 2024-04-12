@@ -2,7 +2,7 @@
 I am currently an undergraduate student in Nankai University
 
 ## Paper notes
-I mainly read papers about UTS/MTS/STD Forecasting and classification, LLM, Backdoor Attack and so on. Below are my research notes from papers in various fields:
+I mainly read papers about UTS/MTS Forecasting and classification, LLM, Backdoor Attack and so on. Below are my research notes from papers in various fields:
 
 1. Please click [HERE](./Paper-Note/model4ts.md)(LLM-based Time series analysis) for more details.
 2. 
@@ -12,7 +12,8 @@ I mainly read papers about UTS/MTS/STD Forecasting and classification, LLM, Back
 You can click [HERE]() for my CV
 
 ## Coworker
-I am currently looking for co-worker and doing some works together.
+I’m looking to collaborate on ML & AI & Data & Quant. We can do some excellent works together. 
+
 
 ## Grades
 
@@ -23,3 +24,11 @@ I am currently looking for co-worker and doing some works together.
 
 
 Overall Grade: 90.64/100
+
+
+## Con
+1. WeChat: starks888
+2. Email: fscnkucs@gmail.com
+
+
+![FSC's github stats](https://github-readme-stats.vercel.app/api?username=fscdc&show_icons=true&theme=tokyonight) 
