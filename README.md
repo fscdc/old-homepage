@@ -1,12 +1,12 @@
 # Personal Homepage
-I am currently an undergraduate student in Nankai University
+I am currently an undergraduate student in Nankai University, majoring in CS and minoring in Actuarial Science. And I have strong passion to explore the Data World.
 
 ## Paper notes
 I mainly read papers about UTS/MTS Forecasting and classification, LLM, Backdoor Attack and so on. Below are my research notes from papers in various fields:
 
 1. Please click [HERE](./Paper-Note/model4ts.md)(LLM-based Time series analysis) for more details.
 2. 
-
+3. 
 
 ## CV
 You can click [HERE]() for my CV
