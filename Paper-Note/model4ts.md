@@ -21,7 +21,7 @@ LIST:
 
 * The first step is the hardest: Pitfalls of Representing and Tokenizing Temporal Data for Large Language Models. [\[Paper\]](https://arxiv.org/abs/2309.06236)
 
-* Large Language Models Are Zero-Shot Time Series Forecasters. [\[Paper\]](https://arxiv.org/abs/2310.07820)
+* Large Language Models Are Zero-Shot Time Series Forecasters. [\[Paper\]](https://arxiv.org/abs/2310.07820) [\[Note\]](./LLM-TS/llm4zeroshot.md)
 
 * TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting. [\[Paper\]](https://arxiv.org/abs/2310.04948)
 
