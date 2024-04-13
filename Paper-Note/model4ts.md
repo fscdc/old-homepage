@@ -24,7 +24,7 @@ LIST:
 
 * Large Language Models Are Zero-Shot Time Series Forecasters. [\[Paper\]](https://arxiv.org/abs/2310.07820) [\[Note\]](./LLM-TS/llm4zeroshot.md)
 
-* TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting. [\[Paper\]](https://arxiv.org/abs/2310.04948)
+* TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting. [\[Paper\]](https://arxiv.org/abs/2310.04948) 
 
 * S2IP-LLM: Semantic Space Informed Prompt Learning with LLM for Time Series Forecasting. [\[Paper\]](https://arxiv.org/pdf/2403.05798.pdf)
 
