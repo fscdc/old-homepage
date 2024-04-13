@@ -1,6 +1,6 @@
 This Page collects the papers and codes of which attracted my interests. Additional, I read paper and take notes.
 
-*Keyword: effective llm, multimodal, cross-discipline, Leverage Learning.*
+*Keyword: effective LLM, multimodal, cross-discipline, Leverage Learning.*
 
 LIST: 
 
