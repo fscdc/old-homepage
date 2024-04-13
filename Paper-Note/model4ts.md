@@ -1,4 +1,4 @@
-This Page collects the papers and codes of Large Language Models (LLMs) and Foundation Models (FMs) for Time Series (TS). Additional, I read paper and toke notes.
+This Page collects the papers and codes of Large Language Models (LLMs) and Foundation Models (FMs) for Time Series (TS). Additional, I read paper and take notes.
 
 *After the success of BERT, GPT, and other LLMs in NLP, some researchers have proposed to apply LLMs to Time Series (TS) tasks. They fintune the LLMs on TS datasets and achieve SOTA results.*
 
@@ -33,3 +33,11 @@ LIST:
 * Position Paper: What Can Large Language Models Tell Us about Time Series Analysis. [\[Survey\]](https://arxiv.org/abs/2402.02713)
 
 * Foundation Models for Time Series Analysis: A Tutorial and Survey [\[Survey\]](https://arxiv.org/abs/2403.14735)
+
+
+## 🔗 Related Fields
+*Here, some related fields are listed. These fields are not the main focus of this project, but they are also important for understanding how LLMs are applied to other fields rather than NLP and FMs in specific fields are developed.*
+
+### 📍 LLM for Recommendation Systems
+* Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5), in *arXiv* 2022. [\[Paper\]](https://arxiv.org/abs/2203.13366)
+* LLM4Rec. [\[GitHub\]](https://github.com/WLiK/LLM4Rec)
