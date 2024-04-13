@@ -18,7 +18,7 @@ LIST:
 * Temporal Data Meets LLM -- Explainable Financial Time Series Forecasting, in *arXiv* 2023. [\[Paper\]](https://arxiv.org/abs/2306.11025) 
 
 
-* LLM4TS: Two-Stage Fine-Tuning for Time-Series Forecasting with Pre-Trained LLMs. [\[Paper\]](https://arxiv.org/abs/2308.08469)
+* LLM4TS: Two-Stage Fine-Tuning for Time-Series Forecasting with Pre-Trained LLMs. [\[Paper\]](https://arxiv.org/abs/2308.08469) [\[Note\]](./LLM-TS/llm4ts.md)
 
 * The first step is the hardest: Pitfalls of Representing and Tokenizing Temporal Data for Large Language Models. [\[Paper\]](https://arxiv.org/abs/2309.06236)
 
