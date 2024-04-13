@@ -31,4 +31,11 @@ Overall Grade: 90.64/100
 2. Email: fscnkucs@gmail.com
 
 
+## Popular Repo
+1. A repo compiling various small projects from my undergraduate studies into a single GitHub repository; regularly updated and maintained. The repo has gained 25 STARs.
+[![NKU-CS-FSC](https://github-readme-stats.vercel.app/api/pin/?username=fscdc&repo=NKU-CS-FSC)](https://github.com/fscdc/NKU-CS-FSC)
+
+
+
+
 ![FSC's github stats](https://github-readme-stats.vercel.app/api?username=fscdc&show_icons=true&theme=tokyonight) 
