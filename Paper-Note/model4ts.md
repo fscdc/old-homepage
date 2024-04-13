@@ -10,7 +10,7 @@ LIST:
 
 * TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for Time Series. [\[Paper\]](https://arxiv.org/abs/2308.08241) [\[Note\]](./LLM-TS/test.md)
 
-* PromptCast: A New Prompt-based Learning Paradigm for Time Series Forecasting Hao, in *arXiv* 2022. [\[Paper\]](https://arxiv.org/abs/2210.08964)
+* PromptCast: A New Prompt-based Learning Paradigm for Time Series Forecasting Hao, in *arXiv* 2022. [\[Paper\]](https://arxiv.org/abs/2210.08964) [\[Note\]](./LLM-TS/promptcast.md)
 
 * One Fits All: Power General Time Series Analysis by Pretrained LM, in *arXiv* 2023. [\[Paper\]](https://arxiv.org/abs/2302.11939) [\[Note\]](./LLM-TS/onefitsall.md)
 
