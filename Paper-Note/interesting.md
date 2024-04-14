@@ -9,3 +9,4 @@ LIST:
 
 * Token-Efficient Leverage Learning in Large Language Models, in *arXiv* 2024. [\[Paper\]](https://arxiv.org/pdf/2404.00914.pdf)
 
+* Heterogeneous Graph Neural Network, in *ACM* 2019 [\[Paper\]](https://dl.acm.org/doi/pdf/10.1145/3292500.3330961) [\[Note\]](./interesting/het.md) 
