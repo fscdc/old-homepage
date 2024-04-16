@@ -9,7 +9,7 @@ I mainly read papers about UTS/MTS tasks, Spatio-Temporal Data, LLM, Backdoor At
 3. Please click [HERE](./Paper-Note/interesting.md)(Interesting papers) for more details.
 
 ## CV
-You can click [HERE](/CV-FengSicheng.pdf) for my CV
+You can click [HERE](/CV.pdf) for my CV
 
 ## Coworker
 I’m looking to collaborate on ML & AI & Data & Quant. We can do some excellent works together. 
