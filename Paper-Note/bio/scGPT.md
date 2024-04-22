@@ -1,6 +1,6 @@
 # scGPT
 
-skip by the edge parts, mainly focus on the mothod
+skip by the edge parts, mainly focus on the method
 
 ## Methods
 
@@ -15,6 +15,46 @@ The Input of scGPT:(consist of three parts):
 1. gene/peak tokens, a gene/peak name is a basic token, so the  vocabulary consist of gene-names and some special token like: <cls>/<pad>. So one cell's gene input can be like:
 
 \[ t(g_i) = [id(g_{i1}), id(g_{i2}), \ldots, id(g_{iM})] \]
+
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>t</mi>
+  <mo>(</mo>
+  <mi>g</mi>
+  <mo>ₑ</mo>
+  <mo>)</mo>
+  <mo>=</mo>
+  <mo>[</mo>
+  <mi>id</mi>
+  <mo>(</mo>
+  <mi>g</mi>
+  <msub>
+    <mi>i</mi>
+    <mn>1</mn>
+  </msub>
+  <mo>)</mo>
+  <mo>,</mo>
+  <mi>id</mi>
+  <mo>(</mo>
+  <mi>g</mi>
+  <msub>
+    <mi>i</mi>
+    <mn>2</mn>
+  </msub>
+  <mo>)</mo>
+  <mo>,</mo>
+  <mo>…</mo>
+  <mo>,</mo>
+  <mi>id</mi>
+  <mo>(</mo>
+  <mi>g</mi>
+  <msub>
+    <mi>i</mi>
+    <mi>M</mi>
+  </msub>
+  <mo>)</mo>
+  <mo>]</mo>
+</math>
+
 
 2. expression values of gene, there use a tech named Split bucket to make different source of data process together.
 
