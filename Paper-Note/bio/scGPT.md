@@ -14,44 +14,7 @@ The Input of scGPT:(consist of three parts):
 
 1. gene/peak tokens, a gene/peak name is a basic token, so the  vocabulary consist of gene-names and some special token like: <cls>/<pad>. So one cell's gene input can be like:
 
-<math xmlns="http://www.w3.org/1998/Math/MathML">
-  <mi>t</mi>
-  <mo>(</mo>
-  <mi>g</mi>
-  <mo>i</mo>
-  <mo>)</mo>
-  <mo>=</mo>
-  <mo>[</mo>
-  <mi>id</mi>
-  <mo>(</mo>
-  <mi>g</mi>
-  <msub>
-    <mi>i</mi>
-    <mn>1</mn>
-  </msub>
-  <mo>)</mo>
-  <mo>,</mo>
-  <mi>id</mi>
-  <mo>(</mo>
-  <mi>g</mi>
-  <msub>
-    <mi>i</mi>
-    <mn>2</mn>
-  </msub>
-  <mo>)</mo>
-  <mo>,</mo>
-  <mo>…</mo>
-  <mo>,</mo>
-  <mi>id</mi>
-  <mo>(</mo>
-  <mi>g</mi>
-  <msub>
-    <mi>i</mi>
-    <mi>M</mi>
-  </msub>
-  <mo>)</mo>
-  <mo>]</mo>
-</math>
+![公式](/pic/scGPT/02.png)
 
 
 2. expression values of gene, there use a tech named Split bucket to make different source of data process together.
@@ -62,7 +25,7 @@ above three is **1×M** to align
 
 Then: 
 
-$$ \[ h(i) = \text{embg}(t(g_i)) + \text{embx}(x(i)) + \text{embc}(t(c_i)) \] $$
+![公式](/pic/scGPT/01.png)
 
 Here:
 - \(\text{embg}(t(g_i))\) gene token embedding
