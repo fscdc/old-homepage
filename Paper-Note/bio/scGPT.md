@@ -14,13 +14,11 @@ The Input of scGPT:(consist of three parts):
 
 1. gene/peak tokens, a gene/peak name is a basic token, so the  vocabulary consist of gene-names and some special token like: <cls>/<pad>. So one cell's gene input can be like:
 
-\[ t(g_i) = [id(g_{i1}), id(g_{i2}), \ldots, id(g_{iM})] \]
-
 <math xmlns="http://www.w3.org/1998/Math/MathML">
   <mi>t</mi>
   <mo>(</mo>
   <mi>g</mi>
-  <mo>ₑ</mo>
+  <mo>i</mo>
   <mo>)</mo>
   <mo>=</mo>
   <mo>[</mo>
@@ -64,7 +62,7 @@ above three is **1×M** to align
 
 Then: 
 
-\[ h(i) = \text{embg}(t(g_i)) + \text{embx}(x(i)) + \text{embc}(t(c_i)) \]
+$$ \[ h(i) = \text{embg}(t(g_i)) + \text{embx}(x(i)) + \text{embc}(t(c_i)) \] $$
 
 Here:
 - \(\text{embg}(t(g_i))\) gene token embedding
@@ -94,7 +92,7 @@ MLP+Mean Square Loss 估计未知基因的表达值
 
 fine-tuning task: **GEP**、**GEPC**、**ECS**、**CTC**
 
-然后针对一些**downstream tasks**进行了处理，并给出了specific的ot mo
+然后针对一些**downstream tasks**进行了处理，并给出了specific的ot method
 
 
 ## dataset
