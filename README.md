@@ -44,4 +44,4 @@ Overall Grade: 90.64/100
 
 
 
-<iframe src="./maps.html" width="600" height="400"></iframe>
+<iframe src="./maps.html" width="600" height="400" style="border: none;"></iframe>
