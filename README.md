@@ -8,7 +8,7 @@ I mainly read papers about UTS/MTS tasks, Spatio-Temporal Data, LLM, Backdoor At
 2. Please click [HERE](./Paper-Note/backdoor.md)(Backdoor attacks) for more details.
 3. Please click [HERE](./Paper-Note/interesting.md)(Interesting papers) for more details.
 4. Please click [HERE](./Paper-Note/bio.md)(papers about AI4Bio, scRNA-seq. etc.) for more details.
-
+5. Please click [HERE](./Paper-Note/efficient-llm.md)(papers about Efficient AI, Efficient LLM, etc.) for more details.
 
 ## CV
 You can click [HERE](/CV.pdf) for my CV
