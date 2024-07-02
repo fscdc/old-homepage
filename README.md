@@ -8,7 +8,7 @@ I am currently an undergraduate student in Nankai University, majoring in CS and
 |                 | Yr1        | Yr2        | Yr3        |
 |-----------------|------------|------------|------------|
 | GPA:            | 87.89/100  | 91.79/100  | 93.72/100  |
-| Class ranking:  | 41/137     | 8/137      | 6/137      |
+| Class ranking:  | 41/140     | 8/140      | 6/140      |
 
 
 Overall Grade: 90.64/100; overall GPA: 3.78/4
