@@ -1,20 +1,24 @@
 # Personal Homepage
-I am currently an undergraduate student in Nankai University, majoring in CS and minoring in Actuarial Science. And I have strong passion to explore the Data World. (LLM, MLLM)
+I am currently an undergraduate student in Nankai University, majoring in CS and minoring in Actuarial Science. And I have strong passion to explore the Data World.
 
 ![FSC's github stats](https://github-readme-stats.vercel.app/api?username=fscdc&show_icons=true&theme=tokyonight) 
+
+## Publication
+- **Sicheng Feng**, Siyu Li, Luonan Chen* and Shengquan Chen*. “Unveiling potential threats: backdoor attacks in single-cell pretrained models” Be submitted to _Nature Methods_ [GitHub Repo](https://github.com/BioX-NKU/scBackdoor)
+
 
 ## Grades
 
 |                 | Yr1        | Yr2        | Yr3        |
 |-----------------|------------|------------|------------|
-| GPA:            | 87.89/100  | 91.79/100  | 93.72/100  |
-| Class ranking:  | 41/140     | 8/140      | 6/140      |
+| GPA:            | 87.89/100  | 91.79/100  | 94.79/100  |
+| Ranking:        | 41/140     | 8/140      | 2/140      |
 
 
-Overall Grade: 90.64/100; overall GPA: 3.78/4
+Overall Grade: 91.24/100; overall GPA: 3.79/4
 
 ## CV
-You can click [HERE](/CV.pdf) for my CV
+You can click [HERE](/CV-Sicheng_Feng.pdf) for my CV
 
 ## Popular Repo
 1. A repo compiling various small projects from my undergraduate studies into a single GitHub repository; regularly updated and maintained. The repo has gained almost 30 STARs.
@@ -38,4 +42,6 @@ I’m looking to collaborate on ML & AI & Data & Quant. We can do some excellent
 2. Email: url[fscnkucs@gmail.com]
 
 
-<iframe src="./maps.html" width="900" height="600" style="border: none;"></iframe>
+<div style="display: flex; justify-content: flex-start;">
+  <iframe src="./maps.html" width="900" height="600" style="border: none;"></iframe>
+</div>
