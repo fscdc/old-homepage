@@ -21,7 +21,7 @@ Overall Grade: 91.24/100; overall GPA: 3.79/4
 You can click [HERE](/CV-Sicheng_Feng.pdf) for my CV
 
 ## Popular Repo
-1. A repo compiling various small projects from my undergraduate studies into a single GitHub repository; regularly updated and maintained. The repo has gained almost 30 STARs.
+1. A repo compiling various small projects from my undergraduate studies into a single GitHub repository; regularly updated and maintained.
 [![NKU-CS-FSC](https://github-readme-stats.vercel.app/api/pin/?username=fscdc&repo=NKU-CS-FSC)](https://github.com/fscdc/NKU-CS-FSC)
 
 ## Paper notes
