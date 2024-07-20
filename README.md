@@ -12,11 +12,10 @@ I am currently an undergraduate student in [Nankai University](https://www.nanka
 You can click [HERE](/CV-Sicheng_Feng.pdf) for my CV
 
 ## Education:
-  - 2021-now: Nankai University（南开大学）
-      Bachelor of Computer Science
-    
+- 2021-now: Nankai University（南开大学）| Bachelor of Computer Science
+
 ## Experience:
-  - Summer 2024: ENCODE Lab, Westlake University
+- Summer 2024: ENCODE Lab (Supervisor: [Huan Wang](https://huanwang.tech/)), Westlake University
 
 ## Grades
 
