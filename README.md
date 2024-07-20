@@ -1,45 +1,45 @@
-# Personal Homepage
-I am currently an undergraduate student in Nankai University, majoring in CS and minoring in Actuarial Science. And I have strong passion to explore the Data World.
+# Sicheng Feng (冯思程)
+I am currently an undergraduate student in Nankai University, majoring in CS and minoring in Actuarial Science. I’m looking to collaborate on LLM & AI4Sci. We can do some excellent works together.
 
-![FSC's github stats](https://github-readme-stats.vercel.app/api?username=fscdc&show_icons=true&theme=tokyonight) 
+Contact: fscnkucs@gmail.com
+
+[Twitter](https://x.com/si_feng32704)
+[GitHub](https://github.com/fscdc)
 
 ## Publication
 - **Sicheng Feng**, Siyu Li, Luonan Chen* and Shengquan Chen*. “Unveiling potential threats: backdoor attacks in single-cell pretrained models” Be submitted to _Nature Methods_ [GitHub Repo](https://github.com/BioX-NKU/scBackdoor)
 
-
-## Grades
-
-|                 | Yr1        | Yr2        | Yr3        |
-|-----------------|------------|------------|------------|
-| GPA:            | 87.89/100  | 91.79/100  | 94.79/100  |
-| Ranking:        | 41/140     | 8/140      | 2/140      |
-
-
-Overall Grade: 91.24/100; overall GPA: 3.79/4
-
 ## CV
 You can click [HERE](/CV-Sicheng_Feng.pdf) for my CV
 
-## Popular Repo
+## Education:
+  - 2021-now: Nankai University（南开大学）
+      Bachelor of Computer Science
+    
+## Experience:
+  - Summer 2024: ENCODE Lab, Westlake University
+
+## Grades
+|                 | Yr2        | Yr3        | Overall    |
+|-----------------|------------|------------|------------|
+| GPA:            | 91.79/100  | 94.79/100  | 91.24/100  |
+| Ranking:        | 8/140      | 2/140      | 12/140     |
+
+## GitHub Stats & Popular Repo
+![FSC's github stats](https://github-readme-stats.vercel.app/api?username=fscdc&show_icons=true&theme=tokyonight) 
+
 1. A repo compiling various small projects from my undergraduate studies into a single GitHub repository; regularly updated and maintained.
 [![NKU-CS-FSC](https://github-readme-stats.vercel.app/api/pin/?username=fscdc&repo=NKU-CS-FSC)](https://github.com/fscdc/NKU-CS-FSC)
 
-## Paper notes
-I mainly read papers about UTS/MTS tasks, Spatio-Temporal Data, LLM, Backdoor Attack and so on. Below are my research notes from papers in various fields:
+## Paper Notes
+Below are my research notes from papers in various fields:
 
 1. Please click [HERE](./Paper-Note/model4ts.md)(LLM-based Time series analysis) for more details.
 2. Please click [HERE](./Paper-Note/backdoor.md)(Backdoor attacks) for more details.
 3. Please click [HERE](./Paper-Note/interesting.md)(Interesting papers) for more details.
 4. Please click [HERE](./Paper-Note/bio.md)(papers about AI4Bio, scRNA-seq. etc.) for more details.
 5. Please click [HERE](./Paper-Note/efficient-llm.md)(papers about Efficient AI, Efficient LLM, etc.) for more details.
-
-
-## Coworker
-I’m looking to collaborate on ML & AI & Data & Quant. We can do some excellent works together. 
-
-## Con
-1. WeChat: starks888
-2. Email: url[fscnkucs@gmail.com]
+5. Please click [HERE]()(papers about Pruning) for more details.
 
 
 <div style="display: flex; justify-content: flex-start;">
