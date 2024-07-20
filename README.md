@@ -1,10 +1,9 @@
 # Sicheng Feng (冯思程)
-I am currently an undergraduate student in Nankai University, majoring in CS and minoring in Actuarial Science. I’m looking to collaborate on LLM & AI4Sci. We can do some excellent works together.
+I am currently an undergraduate student in [Nankai University](https://www.nankai.edu.cn/), majoring in Computer Science and minoring in Actuarial Science. I’m looking to collaborate on LLM & AI4Sci. We can do some excellent works together.
 
-Contact: fscnkucs@gmail.com
+**Contact**: fscnkucs@gmail.com
 
-[Twitter](https://x.com/si_feng32704)
-[GitHub](https://github.com/fscdc)
+[Twitter](https://x.com/si_feng32704) | [GitHub](https://github.com/fscdc)
 
 ## Publication
 - **Sicheng Feng**, Siyu Li, Luonan Chen* and Shengquan Chen*. “Unveiling potential threats: backdoor attacks in single-cell pretrained models” Be submitted to _Nature Methods_ [GitHub Repo](https://github.com/BioX-NKU/scBackdoor)
@@ -20,6 +19,7 @@ You can click [HERE](/CV-Sicheng_Feng.pdf) for my CV
   - Summer 2024: ENCODE Lab, Westlake University
 
 ## Grades
+
 |                 | Yr2        | Yr3        | Overall    |
 |-----------------|------------|------------|------------|
 | GPA:            | 91.79/100  | 94.79/100  | 91.24/100  |
