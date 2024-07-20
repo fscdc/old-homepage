@@ -1,5 +1,5 @@
 # Sicheng Feng (冯思程)
-I am currently an undergraduate student in [Nankai University](https://www.nankai.edu.cn/), majoring in Computer Science and minoring in Actuarial Science. I’m looking to collaborate on LLM & AI4Sci. We can do some excellent works together.
+I am currently an undergraduate student in [Nankai University](https://www.nankai.edu.cn/), majoring in Computer Science and minoring in Actuarial Science. I’m looking for *co-worker* to collaborate on FMs & AI4Sci & AI4Bio. We can do some excellent works together.
 
 **Contact**: fscnkucs@gmail.com
 
@@ -12,7 +12,7 @@ I am currently an undergraduate student in [Nankai University](https://www.nanka
 You can click [HERE](/CV-Sicheng_Feng.pdf) for my CV
 
 ## Education:
-- 2021-now: Nankai University（南开大学）
+- 2021- : Nankai University（南开大学）
   - Bachelor of Computer Science
 
 ## Experience:
@@ -26,11 +26,11 @@ You can click [HERE](/CV-Sicheng_Feng.pdf) for my CV
 | Ranking:        | 8/140      | 2/140      | 12/140     |
 
 ## GitHub Stats & Popular Repo
+
 ![FSC's github stats](https://github-readme-stats.vercel.app/api?username=fscdc&show_icons=true&theme=tokyonight) 
 
 1. A repo compiling various small projects from my undergraduate studies into a single GitHub repository; regularly updated and maintained.
-
-  [![NKU-CS-FSC](https://github-readme-stats.vercel.app/api/pin/?username=fscdc&repo=NKU-CS-FSC)](https://github.com/fscdc/NKU-CS-FSC)
+   [![NKU-CS-FSC](https://github-readme-stats.vercel.app/api/pin/?username=fscdc&repo=NKU-CS-FSC)](https://github.com/fscdc/NKU-CS-FSC)
 
 ## Paper Notes
 Below are my research notes from papers in various fields:
