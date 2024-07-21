@@ -6,7 +6,7 @@ I am currently an undergraduate student in [Nankai University](https://www.nanka
 [Twitter](https://x.com/si_feng32704) | [GitHub](https://github.com/fscdc)
 
 ## Publication
-- **Sicheng Feng**, Siyu Li, Luonan Chen* and Shengquan Chen*. “Unveiling potential threats: backdoor attacks in single-cell pretrained models” Be submitted to _Nature Methods_ [GitHub Repo](https://github.com/BioX-NKU/scBackdoor)
+- **Sicheng Feng**, Siyu Li, Luonan Chen* and Shengquan Chen*. “XXXX in single-cell pretrained models” Be submitted to _Nature Methods_ [GitHub Repo](https://github.com/BioX-NKU/scBackdoor)
 
 ## CV
 You can click [HERE](/CV-Sicheng_Feng.pdf) for my CV
