@@ -1,5 +1,5 @@
 # Sicheng Feng (冯思程)
-I am currently an undergraduate student in [Nankai University](https://www.nankai.edu.cn/), majoring in Computer Science and minoring in Actuarial Science. I’m looking for *co-worker* to collaborate on FMs & AI4Sci & AI4Bio. We can do some excellent works together. I joined the [BioX Lab](https://biox-nku.github.io/#) since April 2024 supervised by [Prof. Shengquan Chen](https://biox-nku.github.io/#)
+I am currently an undergraduate student in [Nankai University](https://www.nankai.edu.cn/), majoring in Computer Science and minoring in Actuarial Science. I’m looking for *co-worker* to collaborate on FMs & AI4Sci & AI4Bio. We can do some excellent works together. I joined the [BioX Lab](https://biox-nku.github.io/#) since April 2024 supervised by [Prof. Shengquan Chen]([https://biox-nku.github.io/#](https://math.nankai.edu.cn/2022/0301/c5623a432805/page.htm))
 
 **Contact**: fscnkucs@gmail.com
 
@@ -18,7 +18,7 @@ You can click [HERE](/CV-Sicheng_Feng.pdf) for my CV
 ## Experience:
 
 - 2024.07~ : ENCODE Lab (Supervisor: [Prof. Huan Wang](https://huanwang.tech/)), Westlake University
-- 2024.04~2024.06: BioX Lab (Supervisor: [Prof. Shengquan Chen](https://biox-nku.github.io/#)), Nankai University
+- 2024.04~2024.06: BioX Lab (Supervisor: [Prof. Shengquan Chen]([https://biox-nku.github.io/#](https://math.nankai.edu.cn/2022/0301/c5623a432805/page.htm))), Nankai University
 
 ## Grades
 
