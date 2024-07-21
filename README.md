@@ -18,7 +18,7 @@ You can click [HERE](/CV-Sicheng_Feng.pdf) for my CV
 ## Experience:
 
 - 2024.07~ : ENCODE Lab (Supervisor: [Prof. Huan Wang](https://huanwang.tech/)), Westlake University
-- 2024.04~2024.06: BioX Lab (Supervisor: [Prof. Shengquan Chen](https://math.nankai.edu.cn/2022/0301/c5623a432805/page.htm), Nankai University
+- 2024.04~2024.06: BioX Lab (Supervisor: [Prof. Shengquan Chen](https://math.nankai.edu.cn/2022/0301/c5623a432805/page.htm)), Nankai University
 
 ## Grades
 
